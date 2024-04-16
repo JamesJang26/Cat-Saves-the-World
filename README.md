@@ -1,6 +1,16 @@
 # 🐱 Abyssinian Cat Classifier and Captioning Project 🎉
 
 Welcome to the Abyssinian Cat Classifier and Captioning Project! 🚀 This open-source initiative aims to develop robust machine learning models to classify Abyssinian cats 🐈 from images and generate captions describing their actions and features. Our goal is to create a high-quality, diverse dataset of cat images that can be used to train models to detect and describe Abyssinian cats accurately.
+---
+![Ruby](https://github.com/JamesJang26/Cat-Saves-the-World/assets/89830875/27b276f6-fbcd-40c2-99f3-65b987c634cf)
+## 🌟✨ Meet Ruby, Our Muse 🐾🎉
+
+Meet "Ruby," a dazzling Abyssinian cat 🐈 born on October 21, 2020, who has become the inspiration 💡 behind this project. Ruby is a female who absolutely adores people. Her eyes sparkle ✨ like rubies💎, which is how she got her name—not from the programming language, Ruby, mind you! (Just a little joke 😄).
+
+Ruby is like a beloved little sister in our home 🏡, incredibly cute 🥰 and beautiful. It's our hope that many cat lovers ❤️ and owners will join and contribute to this project, sharing the joy 🎊 Ruby brings into our lives. If you're a cat enthusiast, let Ruby's story inspire you to participate 🙌 and help advance this project. Together, let's make this a fun 🎉 and fruitful 🍎 endeavor for all!
+
+We believe that by sharing stories like Ruby's, we can create a community 🌐 that not only contributes to this project but also shares in the delight 🎈 of our feline friends.
+
 
 ---
 ## 🎯 Project Objectives
